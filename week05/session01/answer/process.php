@@ -12,7 +12,6 @@
   // Load Current Data
   function LoadCurrentData() {
     $json_string = file_get_contents("./cars.json");
-    
     return json_decode($json_string, true);
   }
 

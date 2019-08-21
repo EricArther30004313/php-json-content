@@ -1,0 +1,1 @@
+This is not easier to setup, but it is more secure since you don't need to transfer your local credentials
